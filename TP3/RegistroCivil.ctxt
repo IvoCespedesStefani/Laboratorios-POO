@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RegistroCivil
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ registrar\ matrimonios\ y\ emitir\ certificados.\r\n\ Usa\ las\ clases\ Hombre\ y\ Mujer\ para\ modelar\ el\ sistema\ del\ Registro\ Civil.\r\n\ Los\ datos\ de\ las\ personas\ se\ ingresan\ por\ teclado.\r\n\ \r\n\ @author\ Ivo\r\n\ @version\ 2\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ principal\ de\ la\ aplicacion.\r\n\ Pide\ datos\ de\ un\ hombre\ y\ una\ mujer,\ los\ casa\ y\ emite\ un\ certificado.\r\n\ @param\ args\ no\ se\ utilizan\ parametros\ en\ este\ metodo\r\n
+comment2.params=p_hombre\ p_mujer
+comment2.target=void\ emitirCertificadoMatrimonio(Hombre,\ Mujer)
+comment2.text=\r\n\ Emite\ un\ certificado\ de\ matrimonio\ en\ consola.\r\n\ @param\ p_hombre\ hombre\ casado\r\n\ @param\ p_mujer\ mujer\ casada\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+numComments=3
