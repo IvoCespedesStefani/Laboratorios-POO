@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CreaFigura
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ crear\ y\ manipular\ objetos\ de\ tipo\ Circulo\ y\ Rectangulo,\r\n\ siguiendo\ las\ consignas\ del\ ejercicio.\r\n\ \r\n\ Se\ crean\ c\u00EDrculos\ y\ rect\u00E1ngulos\ con\ posiciones\ y\ dimensiones\ determinadas\ \r\n\ aleatoriamente,\ se\ desplazan\ dentro\ de\ un\ rango\ establecido,\ se\ muestran\ sus\ \r\n\ caracter\u00EDsticas,\ se\ determina\ cu\u00E1l\ es\ el\ de\ mayor\ superficie\ y\ se\ calcula\ la\ \r\n\ distancia\ entre\ ellos.\r\n\ \r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 2\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ l\u00F3gica\ de\ creaci\u00F3n\ y\ manipulaci\u00F3n\ \r\n\ de\ c\u00EDrculos\ y\ rect\u00E1ngulos.\r\n\ \r\n\ @param\ args\ no\ recibe\ par\u00E1metros\ desde\ la\ l\u00EDnea\ de\ comandos\r\n
+numComments=2

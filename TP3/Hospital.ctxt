@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Representa\ un\ hospital\ con\ su\ nombre,\ director\ \r\n\ y\ la\ posibilidad\ de\ consultar\ datos\ filiatorios\ de\ un\ paciente\r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 1\r\n
+comment1.params=p_nombre\ p_director
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ con\ parametros\r\n\ @param\ p_nombre\ recibe\ el\ nombre\ del\ hospital\r\n\ @param\ p_director\ recibe\ el\ nombre\ del\ director\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment2.text=\r\n\ Asigna\ p_nombre\ al\ atributo\ nombreHospital\r\n\ @param\ p_nombre\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment3.params=p_director
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment3.text=\r\n\ Asigna\ p_director\ al\ atributo\ nombreDirector\r\n\ @param\ p_director\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombreHospital()
+comment4.text=\r\n\ Devuelve\ el\ nombre\ del\ hospital\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getNombreDirector()
+comment5.text=\r\n\ Devuelve\ el\ nombre\ del\ director\ del\ hospital\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+comment6.text=\r\n\ Muestra\ por\ pantalla\ los\ datos\ filiatorios\ del\ paciente\ \r\n\ junto\ con\ los\ datos\ del\ hospital\r\n\ @param\ p_paciente\ recibe\ un\ objeto\ de\ tipo\ Paciente\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+numComments=7
