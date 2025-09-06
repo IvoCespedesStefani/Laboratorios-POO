@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ Permite\ visualizar\ y\ desplazar\ puntos\ de\ un\ plano\r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 2\r\n
+comment1.params=
+comment1.target=Punto()
+comment1.text=\r\n\ Constructor\ sin\ parametros\r\n\ @param\ No\ recibe\ parametros\r\n
+comment10.params=p_ptoDistance
+comment10.target=double\ distanciaA(Punto)
+comment10.text=\r\n\ Calcula\ la\ distancia\ euclidiana\ entre\ este\ punto\ y\ otro\ punto.\r\n\ \r\n\ La\ distancia\ se\ calcula\ usando\ la\ f\u00F3rmula\ de\ Pit\u00E1goras\:\r\n\ d\ \=\ sqrt((x2\ -\ x1)^2\ +\ (y2\ -\ y1)^2)\r\n\ \r\n\ Se\ utiliza\ Math.sqrt()\ para\ obtener\ la\ ra\u00EDz\ cuadrada\ de\ la\ suma\ de\ los\ \r\n\ cuadrados\ de\ las\ diferencias\ de\ las\ coordenadas.\r\n\ \r\n\ @param\ p_ptoDistance\ Punto\ con\ el\ que\ se\ calcula\ la\ distancia\r\n\ @return\ un\ valor\ de\ tipo\ double\ representando\ la\ distancia\ real\ entre\ los\ dos\ puntos\r\n
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment2.text=\r\n\ Constructor\ con\ dos\ parametros\r\n\ @param\ p_x\ recibe\ las\ coordenadas\ de\ x\r\n\ @param\ p_y\ recibe\ las\ coordenadas\ de\ y\r\n
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment3.text=\r\n\ Asigna\ p_x\ a\ la\ coordenada\ de\ x\r\n\ @param\ p_x\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment4.text=\r\n\ Asigna\ p_y\ a\ la\ coordenada\ de\ y\r\n\ @param\ p_y\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment5.params=
+comment5.target=double\ getX()
+comment5.text=\r\n\ Devuelve\ la\ coordenada\ de\ x\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ double\r\n
+comment6.params=
+comment6.target=double\ getY()
+comment6.text=\r\n\ Devuelve\ la\ coordenada\ de\ y\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ double\r\n
+comment7.params=p_dx\ p_dy
+comment7.target=void\ desplazar(double,\ double)
+comment7.text=\r\n\ Permite\ desplazar\ las\ coordenadas\ de\ x\ e\ y\r\n\ @param\ p_x\r\n\ @param\ p_y\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment8.params=
+comment8.target=void\ mostrar()
+comment8.text=\r\n\ Muestra\ por\ pantallas\ los\ puntos\ X\ e\ Y\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment9.params=
+comment9.target=java.lang.String\ coordenadas()
+comment9.text=\r\n\ Muestra\ las\ coordenadas\ de\ X\ e\ Y\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+numComments=11

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Representa\ una\ localidad\ con\ su\ nombre\ y\ provincia\r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 1\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ con\ parametros\r\n\ @param\ p_nombre\ recibe\ el\ nombre\ de\ la\ localidad\r\n\ @param\ p_provincia\ recibe\ el\ nombre\ de\ la\ provincia\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Asigna\ p_nombre\ al\ atributo\ nombre\r\n\ @param\ p_nombre\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment3.text=\r\n\ Asigna\ p_provincia\ al\ atributo\ provincia\r\n\ @param\ p_provincia\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ localidad\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment5.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ provincia\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Devuelve\ los\ datos\ de\ la\ localidad\ en\ un\ formato\ especifico\r\n\ @param\ no\ recibe\ ningun\ parametro\r\n\ @return\ un\ valor\ de\ tipo\ String\r\n
+numComments=7

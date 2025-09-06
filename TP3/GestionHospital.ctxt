@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionHospital
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ gestionar\ un\ hospital\ y\ sus\ pacientes.\r\n\ Solicita\ datos\ por\ teclado\ e\ imprime\ los\ datos\ filiatorios\ \r\n\ utilizando\ los\ metodos\ definidos\ en\ las\ clases\ Hospital,\ Paciente\ y\ Localidad.\r\n\ \r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
