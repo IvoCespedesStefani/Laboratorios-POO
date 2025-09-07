@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FirmarPermiso
-comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ crear\ empleados\ y\ emitir\ permisos\ de\ salida.\r\n\ El\ permiso\ se\ encuentra\ firmado\ por\ el\ jefe\ correspondiente,\ o\ por\ el\ \r\n\ Gerente\ General\ en\ caso\ de\ no\ tener\ jefe\ asignado.\r\n\ \r\n\ @author\ Cespedes\ Ivo\r\n\ @version\ 1\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Metodo\ principal\ de\ ejecucion\r\n\ @param\ args\ no\ recibe\ parametros\r\n\ @return\ no\ devuelve\ ningun\ valor\r\n
-numComments=2
