@@ -214,7 +214,7 @@ public class Producto
         System.out.println("Rubro: " + this.getRubro());
         System.out.println("Descripcion: "+ this.getDescripcion());
         System.out.println("Precio costo: " +this.getCosto());
-        System.out.println("Stock: " + this.getStock() + "Stock valorizado: " /*+ Falta funcion*/);
+        System.out.println("Stock: " + this.getStock() + "Stock valorizado: " + this.stockValorizado());
     }
     
     /**
